@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=CubeSat Mission Planner
+Comment=CubeSat Mission Planner
+Icon=/usr/share/icons/csmp_256x256.png
+Exec=/usr/bin/csmp
+Terminal=false
+Categories=HamRadio
